@@ -1,5 +1,5 @@
-# SharpURL
+# Linkia
 
-Simple URL Shortener app written in C# and .NET 8 Project
+URL Shortener APP written in C# with .NET8.
 
 ## Reproducing Commands:
